@@ -1,3 +1,3 @@
 class notifyme {
-  notify { "This notify is on the master branch": }
+  notify { "This is the Webinar branch. Look mom, I'm on TV!": }
 }
